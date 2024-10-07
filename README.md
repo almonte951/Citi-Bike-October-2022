@@ -28,3 +28,5 @@ Geographical Distribution of Start Stations: The Start Station Map visualization
 Hover over bars in the charts to get detailed information about each station, including exact counts of rides and breakdown by ride type.
 Interact with the map to explore different start stations and their geographical locations in the city, providing a clear understanding of where most rides begin.
 Filter and drill down into specific segments of data, helping users customize their exploration based on their needs.
+
+https://public.tableau.com/app/profile/eduardo.almonte/viz/MyFirstViz_17282670255310/Dashboard1?publish=yes
