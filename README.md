@@ -23,7 +23,7 @@ Geographical Distribution of Start Stations: The Start Station Map visualization
 
 ## User Interaction and Exploration
 
-# The dashboard is interactive, allowing users to:
+The dashboard is interactive, allowing users to:
 
 Hover over bars in the charts to get detailed information about each station, including exact counts of rides and breakdown by ride type.
 Interact with the map to explore different start stations and their geographical locations in the city, providing a clear understanding of where most rides begin.
